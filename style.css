@@ -5,11 +5,7 @@
 /* Navigation */
 
 
-nav .logo {
-    font-size: 24px;
-    font-weight: 600;
-    color: #007bff;
-}
+
 
 nav ul {
     display: flex;
